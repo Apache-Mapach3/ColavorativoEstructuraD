@@ -1,0 +1,15 @@
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\bin\Debug\net10.0\MatricesC.exe
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\bin\Debug\net10.0\MatricesC.deps.json
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\bin\Debug\net10.0\MatricesC.runtimeconfig.json
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\bin\Debug\net10.0\MatricesC.dll
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\bin\Debug\net10.0\MatricesC.pdb
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.sourcelink.json
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.dll
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\refint\MatricesC.dll
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.pdb
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\MatricesC.genruntimeconfig.cache
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\MatricesC\obj\Debug\net10.0\ref\MatricesC.dll
