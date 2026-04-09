@@ -1,0 +1,15 @@
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.sourcelink.json
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\bin\Debug\net10.0\ColavorativoEstructuraD.exe
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\bin\Debug\net10.0\ColavorativoEstructuraD.deps.json
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\bin\Debug\net10.0\ColavorativoEstructuraD.runtimeconfig.json
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\bin\Debug\net10.0\ColavorativoEstructuraD.dll
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\bin\Debug\net10.0\ColavorativoEstructuraD.pdb
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.dll
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\refint\ColavorativoEstructuraD.dll
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.pdb
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ColavorativoEstructuraD.genruntimeconfig.cache
+C:\Users\Ghost\Desktop\Colaborativou1\ColavorativoEstructuraD\obj\Debug\net10.0\ref\ColavorativoEstructuraD.dll
